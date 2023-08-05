@@ -1,0 +1,105 @@
+﻿  Izlomljena.cpp
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(6,24): error C2653: 'Izlomljena': is not a class or namespace name
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(6,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(6,24): error C2143: syntax error: missing ';' before '*'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(6,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(8,41): error C2653: 'Izlomljena': is not a class or namespace name
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(8,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(8,36): error C2143: syntax error: missing ',' before '*'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(25,7): error C2143: syntax error: missing ';' before '&'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(25,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(25,21): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(8,41): error C2789: 'MojIterator::Elem': an object of const-qualified type must be initialized
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(6): message : see declaration of 'MojIterator::Elem'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(9,1): error C2039: 'tac': is not a member of 'MojIterator'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(4): message : see declaration of 'MojIterator'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(9,15): error C2065: 't': undeclared identifier
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(12,1): error C2039: 'tac': is not a member of 'MojIterator'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(4): message : see declaration of 'MojIterator'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(15,39): error C2065: 'tac': undeclared identifier
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(15,38): error C2512: 'MojIterator::MojIterator': no appropriate default constructor available
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,16): error C2433: 'ostream': 'friend' not permitted on data declarations
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,64): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(31,1): error C2440: '<function-style-cast>': cannot convert from 'Izlomljena::Elem *' to 'MojIterator'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(31,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(34,1): error C2440: '<function-style-cast>': cannot convert from 'nullptr' to 'MojIterator'
+  Main.cpp
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(34,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(6,24): error C2653: 'Izlomljena': is not a class or namespace name
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(6,24): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(6,24): error C2143: syntax error: missing ';' before '*'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(6,29): error C2238: unexpected token(s) preceding ';'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(8,41): error C2653: 'Izlomljena': is not a class or namespace name
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(8,41): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(8,36): error C2143: syntax error: missing ',' before '*'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(25,7): error C2143: syntax error: missing ';' before '&'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(25,7): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(25,21): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(8,41): error C2789: 'MojIterator::Elem': an object of const-qualified type must be initialized
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(6): message : see declaration of 'MojIterator::Elem'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(9,1): error C2039: 'tac': is not a member of 'MojIterator'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(4): message : see declaration of 'MojIterator'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(9,15): error C2065: 't': undeclared identifier
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(12,1): error C2039: 'tac': is not a member of 'MojIterator'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(4): message : see declaration of 'MojIterator'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(15,39): error C2065: 'tac': undeclared identifier
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\MojIterator.h(15,38): error C2512: 'MojIterator::MojIterator': no appropriate default constructor available
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,16): error C2433: 'ostream': 'friend' not permitted on data declarations
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,64): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(31,1): error C2440: '<function-style-cast>': cannot convert from 'Izlomljena::Elem *' to 'MojIterator'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(31,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(34,1): error C2440: '<function-style-cast>': cannot convert from 'nullptr' to 'MojIterator'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(34,1): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Main.cpp(16,16): error C2872: 'ostream': ambiguous symbol
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,9): message : could be 'int ostream'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\iosfwd(216,7): message : or       'std::ostream'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Main.cpp(16,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Main.cpp(16,16): error C2433: 'ostream': 'friend' not permitted on data declarations
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Main.cpp(16,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Main.cpp(16,58): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Main.cpp(24,13): error C2679: binary '<<': no operator found which takes a right-hand operand of type 'Izlomljena' (or there is no acceptable conversion)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(469,39): message : could be 'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_streambuf<char,std::char_traits<char>> *)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(444,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(const void *)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(426,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long double)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(408,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(double)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(390,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(float)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(372,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned __int64)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(354,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(__int64)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(336,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned long)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(318,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(long)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(299,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned int)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(273,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(int)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(254,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(unsigned short)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(220,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(short)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(202,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(bool)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(197,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::ios_base &(__cdecl *)(std::ios_base &))'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(192,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ios<char,std::char_traits<char>> &(__cdecl *)(std::basic_ios<char,std::char_traits<char>> &))'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(187,39): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::basic_ostream<char,std::char_traits<char>>::operator <<(std::basic_ostream<char,std::char_traits<char>> &(__cdecl *)(std::basic_ostream<char,std::char_traits<char>> &))'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(970,32): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const std::error_code &)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(916,31): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,unsigned char)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(910,31): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const unsigned char *)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(905,31): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,signed char)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(899,31): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const signed char *)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(782,31): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(737,31): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(701,32): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,char)'
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.23.28105\include\ostream(657,32): message : or       'std::basic_ostream<char,std::char_traits<char>> &std::operator <<<char,std::char_traits<char>>(std::basic_ostream<char,std::char_traits<char>> &,const char *)'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Main.cpp(24,13): message : while trying to match the argument list '(std::ostream, Izlomljena)'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Main.cpp(27,15): error C2100: illegal indirection
+  MojIterator.cpp
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Main.cpp(27,8): error C2088: '<<': illegal for class
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(30,19): error C3646: 'begin': unknown override specifier
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(30,19): error C2059: syntax error: '('
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(30,22): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(33,17): error C3646: 'end': unknown override specifier
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(33,17): error C2059: syntax error: '('
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(33,20): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,16): error C2143: syntax error: missing ';' before '&'
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,16): error C2433: 'ostream': 'friend' not permitted on data declarations
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,16): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  Generating Code...
+C:\Users\Korisnik\source\repos\POOPProjectCpp\POOPProjectCpp\Izlomljena.h(36,64): error C2334: unexpected token(s) preceding '{'; skipping apparent function body
